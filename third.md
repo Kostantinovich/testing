@@ -16,4 +16,5 @@ git merge branch_name - слияние двух веток
 
 23542523424234324423
 
-Hello world!
+
+Hello world2!
